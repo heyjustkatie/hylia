@@ -21,6 +21,7 @@ fields:
     maxSize: 64
   label: image
 pages:
+- src/pages/about.md
 - src/pages/portfolio.md
 - src/portfolio/amc-leadership-summit.md
 - src/portfolio/nyu-website-redesign.md
