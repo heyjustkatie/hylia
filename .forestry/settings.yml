@@ -7,6 +7,11 @@ sections:
 - type: heading
   label: Content
 - type: directory
+  path: src/pages
+  label: Portfolio
+  create: all
+  match: "**/*"
+- type: directory
   path: src/posts
   label: Thoughts
   create: documents
