@@ -8,8 +8,8 @@ sections:
   label: Content
 - type: directory
   path: src/posts
-  label: Posts
-  create: all
+  label: Thoughts
+  create: documents
   match: "*.md"
   templates:
   - post
