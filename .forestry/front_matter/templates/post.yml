@@ -22,6 +22,5 @@ fields:
   label: image
 pages:
 - src/pages/portfolio.md
-- src/portfolio/amc-leadership-summit.md
 - src/portfolio/nyu-website-redesign.md
 - src/portfolio/speaking.md

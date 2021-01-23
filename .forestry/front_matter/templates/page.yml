@@ -16,3 +16,5 @@ fields:
   config:
     maxSize: 64
   label: Image
+pages:
+- src/portfolio/amc-leadership-summit.md

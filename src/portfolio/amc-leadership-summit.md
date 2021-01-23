@@ -1,12 +1,12 @@
 ---
-date: 
+date: ''
 title: AMC Leadership Summit
 tags:
 - learning design
 - training facilitation
 - project management
 - communication strategy
-image: "/images/amc-leadership-summit/summit-v1.png"
+image: ''
 
 ---
 learning design | training facilitation | project management | communication strategy
