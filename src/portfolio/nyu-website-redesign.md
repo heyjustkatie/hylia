@@ -93,8 +93,12 @@ Online tutorials:
 
 All users were invited to attend information sessions where our Digital Communications Specialist and I provided background on the redesign project in addition to previewing the new site. This session was recorded for those users unable to attend in person due to scheduling or location conflicts.
 
+    <iframe width="433" height="243" src="https://www.youtube.com/embed/elSDkSizItc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Introducing mobile-friendly templates
 
 The refreshed NYU website design introduced CMS users to an entirely new kind of page template. Previously users built new pages based on a grid layout system, but in the new design they have to adapt to templates based on percentages. This video was created to show CMS users how their content reflowed across various screen breakpoints in an easy to follow format.
+
+    <iframe width="433" height="243" src="https://www.youtube.com/embed/2wfCdF_lg2o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Additional campaign images
