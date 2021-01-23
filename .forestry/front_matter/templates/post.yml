@@ -21,4 +21,5 @@ fields:
     maxSize: 64
   label: image
 pages:
+- src/portfolio/amc-leadership-summit.md
 - src/posts/amc-leadership-summit.md
