@@ -45,8 +45,8 @@ Inspired by our summer launch date, we developed a campaign theme around the "re
 > [**NYU.edu**](http://nyu.edu/) **Refresh**  
 > mobile-friendly | new look | improved user experience
 
-![Draft digital screen ad](https://katiesanto.netlify.app/img/refresh-digital-screen.png)  
-A draft of a digital screen ad and example of title treatment, flat graphics, and color palette.
+_![A draft of a digital screen ad and example of title treatment, flat graphics, and color palette.](/images/nyu-website-redesign/refresh-digital-screen.png "Draft digital screen ad")  
+A draft of a digital screen ad and example of title treatment, flat graphics, and color palette._
 
 The overall voice and tone for redesign communications could be best described as:
 
@@ -65,12 +65,14 @@ Email notifications began 10 weeks in advance of the launch and featured essenti
 
 The Digital Communication Group's [Twitter account](https://twitter.com/NYUdigicomm) was also utilized to post updates, tips for how to use the new website, and behind-the-scene looks of the launch process.
 
-![Campaign email mockups](https://katiesanto.netlify.app/posts/nyu-website-redesign/posts/nyu-website-redesign/img/nyu-refresh.jpg)  
-Campaign emails were mobile responsive and reflected graphical elements from the new design.
+![Campaign emails were mobile responsive and reflected graphical elements from the new design.](/images/nyu-website-redesign/nyu-refresh.jpg "Campaign email mockups")  
+_Campaign emails were mobile responsive and reflected graphical elements from the new design._
 
 ## Launch announcement video
 
 Following the launch of the refreshed NYU website, we also shared a celebratory video on social media. This was created using design material used throughout the campaign in addition to live recordings taken during the actual launch.
+
+    <iframe width="433" height="243" src="https://www.youtube.com/embed/Alc7AhymB9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sharing our process
 
