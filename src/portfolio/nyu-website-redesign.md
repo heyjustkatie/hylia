@@ -8,8 +8,6 @@ tags:
 image: ''
 
 ---
-# NYU Website Redesign
-
 communication strategy | learning design | training facilitation
 
 ## About this project
