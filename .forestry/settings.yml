@@ -11,17 +11,11 @@ sections:
   label: Portfolio
   create: all
   match: "**/*"
-  templates:
-  - page
-  - post
 - type: directory
   path: src/pages
   label: Pages
   create: documents
   match: "**/*"
-  templates:
-  - page
-  - post
 - type: directory
   path: src/posts
   label: Thoughts
