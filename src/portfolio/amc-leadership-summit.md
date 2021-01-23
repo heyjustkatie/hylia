@@ -7,6 +7,14 @@ tags:
 - project management
 - communication strategy
 image: ''
+gallery:
+- "/images/amc-leadership-summit/sample-summit-slide-1.png"
+- "/images/amc-leadership-summit/sample-summit-slide-2.png"
+- "/images/amc-leadership-summit/sample-summit-slide-3.png"
+- "/images/amc-leadership-summit/sample-summit-slide-4.png"
+- "/images/amc-leadership-summit/sample-summit-slide-5.png"
+- "/images/amc-leadership-summit/sample-summit-slide-6.png"
+- "/images/amc-leadership-summit/sample-summit-slide-7.png"
 
 ---
 learning design | training facilitation | project management | communication strategy
