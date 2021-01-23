@@ -8,7 +8,7 @@ sections:
   label: Content
 - type: directory
   path: src/pages
-  label: Portfolio
+  label: Pages
   create: all
   match: "**/*"
 - type: directory
