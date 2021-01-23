@@ -12,6 +12,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - page
   - post
 - type: directory
   path: src/pages
@@ -19,6 +20,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - page
   - post
 - type: directory
   path: src/posts
