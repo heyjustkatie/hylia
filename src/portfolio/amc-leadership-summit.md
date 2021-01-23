@@ -9,8 +9,6 @@ tags:
 image: "/images/amc-leadership-summit/summit-v1.png"
 
 ---
-# AMC Leadership Summit
-
 learning design | training facilitation | project management | communication strategy
 
 ## About this project
