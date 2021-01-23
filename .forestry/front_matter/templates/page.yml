@@ -1,6 +1,6 @@
 ---
 label: Page
-hide_body: true
+hide_body: false
 fields:
 - name: title
   type: text
@@ -11,16 +11,8 @@ fields:
   type: tag_list
   default: []
   label: Tags
-- name: content
-  type: textarea
-  default: ''
+- name: image
+  type: file
   config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Content
-- name: gallery
-  type: image_gallery
-  config: {}
-  label: Gallery
+    maxSize: 64
+  label: Image
